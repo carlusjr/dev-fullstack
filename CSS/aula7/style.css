@@ -1,0 +1,23 @@
+body {
+  background-color: #cecece;
+  font-family:  'Ubuntu', sans-serif;
+}
+
+p {
+  color: #222222;
+  font-family: 'Source Code Pro', monospace;
+  text-align: justify;
+}
+
+#profissao {
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+
+.foto {  
+  border: 3px solid #ffffff; 
+  border-radius: 50px;
+  width: 200px;
+  margin: 30px;
+  box-shadow: 1px 1px 10px black;
+}

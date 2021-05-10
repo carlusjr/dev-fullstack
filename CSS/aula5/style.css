@@ -1,0 +1,19 @@
+body {
+  background-color: #cecece;
+}
+
+p {
+  color: #222222;
+}
+
+.foto {  
+  border: 3px solid #ffffff; 
+  border-radius: 50px;
+  width: 200px;
+  
+  /* margin-top: 30px;
+  margin-right: 10px;
+  margin-bottom: 30px;
+  margin-left: 50px; */
+  margin: 30px 10px 30px 50px /* shorthand */
+}
